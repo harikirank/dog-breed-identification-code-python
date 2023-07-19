@@ -1,4 +1,4 @@
-# dog-breed-identification-code-python
+# Dog-Breed-Identification-Python
 This repo contains all the python code for the dog breed classification using CNNs.
 
 # How to run these files:
